@@ -49,6 +49,9 @@ optionImages.forEach((image,index)=>{
 
         console.log(outComeValue)
         result.textContent = userValue === cpuValue? "Match Draw":`${outComeValue} Won!!`;
+
+
+        // let time = setTimeout()
         
 
         
